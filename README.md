@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sonali Sharma 👋  
 
-<!--
-**sonalisharma23584-web/sonalisharma23584-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Graduate | 📊 Data Analyst (Certified from Novitech)  
+💡 Passionate about Data Analysis, Dashboards, and Insights  
+🔧 Skills: Excel | Python | SQL | Power BI  
+🌱 Currently building my own Data Analyst App 🚀  
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
+- LinkedIn: [linkedin.com/in/sonalisharma23584](https://www.linkedin.com/in/sonalisharma23584)  
+- Email: sonalisharma23584@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+🚀 Coming soon: My Data Analysis Projects and Dashboards
+
